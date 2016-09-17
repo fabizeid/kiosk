@@ -6,4 +6,5 @@ wifi_encryption=AbizeidNet
 wpa_password=mynetwork
 browser=chrome
 disable_private_mode=no
-
+enable_file_protocol=yes
+persistence=full
