@@ -1,3 +1,4 @@
+kiosk_config=https://raw.githubusercontent.com/fabizeid/kiosk/master/config.txt
 connection=wifi
 network_interface=wlan0
 dhcp=yes
