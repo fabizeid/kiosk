@@ -9,3 +9,4 @@ additional_components=uefi.zip
 disable_private_mode=no
 enable_file_protocol=yes
 persistence=full
+homepage=https://code.org/learn
