@@ -6,3 +6,6 @@ kiosk_config=https://raw.githubusercontent.com/fabizeid/kiosk/master/config.txt
 right_mouse_click=yes
 shutdown_combination=yes
 additional_components=uefi.zip
+disable_private_mode=no
+enable_file_protocol=yes
+persistence=full
