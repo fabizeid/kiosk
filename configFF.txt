@@ -1,5 +1,10 @@
-connection=wired
-network_interface=eth0
+//connection=wired
+//network_interface=eth0
+connection=wireless
+network_interface=wlan0
+wifi_encryption=wpa
+ssid_name=AbizeidNet
+wpa_password=mynetwork
 dhcp=yes
 browser=firefox
 kiosk_config=https://raw.githubusercontent.com/fabizeid/kiosk/master/configFF.txt
