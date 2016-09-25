@@ -17,4 +17,4 @@ persistence=full
 homepage=file:///var/www/blockly-games/en/index.html
 managed_bookmarks=https://studio.code.org/
 //managed_bookmarks=file:///var/www/blockly-games/en/index.html|Blockly| https://studio.code.org/|Code_Studio|
-//browser_preferences=https://raw.githubusercontent.com/fabizeid/kiosk/master/configFFBrowserPref.js
+browser_preferences=https://raw.githubusercontent.com/fabizeid/kiosk/master/configFFBrowserPref.js
