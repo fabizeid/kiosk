@@ -14,6 +14,7 @@ additional_components=uefi.zip
 disable_private_mode=yes
 enable_file_protocol=yes
 persistence=full
+timezone=Asia/Beirut
 homepage=file:///var/www/blockly-games/en/index.html
 managed_bookmarks=file:///var/www/blockly-games/en/index.html|Blockly| https://studio.code.org/
 //managed_bookmarks=file:///var/www/blockly-games/en/index.html|Blockly| https://studio.code.org/|Code_Studio|
