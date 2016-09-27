@@ -3,8 +3,8 @@
 connection=wireless
 network_interface=wlan0
 wifi_encryption=wpa
-ssid_name=AbizeidNet
-wpa_password=mynetwork
+ssid_name=SDALC
+wpa_password=5092953993
 dhcp=yes
 browser=firefox
 kiosk_config=https://raw.githubusercontent.com/fabizeid/kiosk/master/configFF.txt
