@@ -1,7 +1,7 @@
 connection=wired
 network_interface=eth0
 dhcp=yes
-browser=chrome
+browser=firefox
 kiosk_config=https://raw.githubusercontent.com/fabizeid/kiosk/master/config.txt
 right_mouse_click=yes
 shutdown_combination=yes
