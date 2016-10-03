@@ -1,3 +1,5 @@
+managed_bookmarks=http://studio.code.org/sections/PXTDZY|1| http://studio.code.org/sections/GFRQQZ|2| http://studio.code.org/sections/LJLLZG|3| http://studio.code.org/sections/DSPTMT|4|
+#file:///var/www/blockly-games/en/index.html|5|
 connection=wired
 network_interface=eth0
 dhcp=yes
@@ -16,4 +18,4 @@ disable_private_mode=yes
 enable_file_protocol=yes
 persistence=full
 homepage=file:///var/www/blockly-games/en/index.html
-managed_bookmarks=http://studio.code.org/sections/PXTDZY|1| http://studio.code.org/sections/GFRQQZ|2| http://studio.code.org/sections/LJLLZG|3| http://studio.code.org/sections/DSPTMT|4| file:///var/www/blockly-games/en/index.html|5|
+
