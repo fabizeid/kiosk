@@ -16,4 +16,4 @@ disable_private_mode=yes
 enable_file_protocol=yes
 persistence=full
 homepage=file:///var/www/blockly-games/en/index.html
-managed_bookmarks=http://studio.code.org/sections/PXTDZY|1| https://studio.code.org/|Code_Studio|
+managed_bookmarks=http://studio.code.org/sections/PXTDZY|1| http://studio.code.org/sections/GFRQQZ|2| http://studio.code.org/sections/LJLLZG|3| http://studio.code.org/sections/DSPTMT|4|
