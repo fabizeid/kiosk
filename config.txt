@@ -15,5 +15,5 @@ additional_components=09-x11vnc.xzm uefi.zip 08-ssh.xzm
 disable_private_mode=yes
 enable_file_protocol=yes
 persistence=full
-homepage=file:///var/www/blockly-games/en/index.html
+# homepage=file:///var/www/blockly-games/en/index.html
 managed_bookmarks=http://studio.code.org/sections/PXTDZY|1| http://studio.code.org/sections/GFRQQZ|2| http://studio.code.org/sections/LJLLZG|3| http://studio.code.org/sections/DSPTMT|4|
